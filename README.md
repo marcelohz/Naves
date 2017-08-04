@@ -1,3 +1,3 @@
 # Naves
-Stupid little game of a shooting spaceship.
-Just wanted to learn some DirectX.
+The spaceships are triangles, that's how crude it is.
+Just wanted to dabble in DirectX
